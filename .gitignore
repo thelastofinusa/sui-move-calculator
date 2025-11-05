@@ -1,0 +1,17 @@
+# Move build artifacts
+build/*
+.trace
+.coverage*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock files (optional - uncomment if you want to ignore them)
+# Move.lock
