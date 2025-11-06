@@ -1,0 +1,3 @@
+export const TESTNET_CALCULATOR_PACKAGE_ID =
+  "0x9561e8e6e12db4d8ca349dfc29b282b7e51a17c51707672cce11d36704372e8c";
+export const TESTNET_CALCULATOR_MODULES = "to_be_deployed_module";
